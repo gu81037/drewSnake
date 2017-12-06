@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+'''
+这是一个python写的小蛇
+'''
+
 import turtle
 
 def drawSnake(rad, angle, len, neckrad):
